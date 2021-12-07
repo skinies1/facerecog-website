@@ -2,6 +2,10 @@ streamLit==0.68.1
 pandas==0.25.3
 base==2.0.0
 matplotlib==3.1.3
-numpy==1.18.1
 yfinance==0.1.54
 lxml==4.5.1
+numpy==1.21.2
+opencv-python==4.5.3.56
+dlib==19.22.1
+face-recognition==1.3.0
+face-recognition-models==0.3.0
